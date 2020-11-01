@@ -1,6 +1,6 @@
 # The USA Car Accidents Prediction App
 
-![alt-text](https://raw.githubusercontent.com/machine-17/USA_Car_Accident_Prediction/master/Heroku%20App/assets/nyc%20traffic.jpg)
+<img src="https://raw.githubusercontent.com/machine-17/USA_Car_Accident_Prediction/master/Heroku%20App/assets/nyc%20traffic.jpg" width="1000" height="250">
 
 **Summary:**
 
