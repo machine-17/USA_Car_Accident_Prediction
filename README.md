@@ -1,5 +1,7 @@
 # The USA Car Accidents Prediction App
 
+![alt-text](https://raw.githubusercontent.com/machine-17/USA_Car_Accident_Prediction/master/Heroku%20App/assets/nyc%20traffic.jpg)
+
 **Summary:**
 
 Most of the accidents are impactful to the traffic flow whereas accidents with significant impact come with a long delay to your day. 
